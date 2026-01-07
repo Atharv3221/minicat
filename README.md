@@ -1,1 +1,1 @@
-# web-util
+#minicat – A minimal servlet container
