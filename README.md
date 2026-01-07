@@ -1,1 +1,1 @@
-#minicat – A minimal servlet container
+# minicat – A servlet container
